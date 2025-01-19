@@ -14,8 +14,8 @@ Here’s a quick look at the Sudoku game in action:
   Your browser does not support the video tag.
 </video>
 
-[Watch the demo video](/Frontend/public/videos/FullGame.mp4)
 
+[![Watch the video](https://img.youtube.com/vi/X10DgPTz0oY/hqdefault.jpg)](https://youtu.be/watch?v=X10DgPTz0oY)
 
 ## Installation
 
@@ -57,7 +57,7 @@ For guidance on setting up firewall rules, refer to:
 ### Steps
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/username/sudoku-multiplayer.git
+    git clone https://github.com/AndreasMohr314/sudoku-multiplayer.git
     cd sudoku-multiplayer
     ```
 
