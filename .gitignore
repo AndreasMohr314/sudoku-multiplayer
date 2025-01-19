@@ -1,0 +1,6 @@
+/Frontend/node_modules/
+/public/build/
+/Backend/app/__pycache__/
+
+
+.DS_Store
