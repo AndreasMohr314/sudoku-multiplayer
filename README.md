@@ -14,6 +14,8 @@ Here’s a quick look at the Sudoku game in action:
   Your browser does not support the video tag.
 </video>
 
+[Watch the demo video](/Frontend/public/videos/FullGame.mp4)
+
 
 ## Installation
 
